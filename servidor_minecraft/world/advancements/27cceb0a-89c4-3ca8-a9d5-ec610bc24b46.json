@@ -383,7 +383,8 @@
   "immersive_weathering:immersive_weathering/dirts": {
     "criteria": {
       "sandy_dirt": "2025-01-09 20:45:55 +0000",
-      "dirt": "2025-01-08 14:53:47 +0000"
+      "dirt": "2025-01-08 14:53:47 +0000",
+      "silt": "2025-01-21 22:55:58 +0000"
     },
     "done": false
   },
