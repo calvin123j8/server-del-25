@@ -47,3 +47,50 @@
 [22Jan2025 00:19:19.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 froze to death
 [22Jan2025 00:21:21.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 froze to death
 [22Jan2025 00:23:14.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 froze to death
+[22Jan2025 00:31:18.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq froze to death
+[22Jan2025 00:34:02.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[22Jan2025 00:34:02.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[22Jan2025 00:34:09.761] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:48011] logged in with entity id 70122 at (-1476.8767893779275, 66.0, 2409.857953225207)
+[22Jan2025 00:34:09.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[22Jan2025 00:34:09.844] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[22Jan2025 00:34:28.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved wrongly!
+[22Jan2025 00:42:05.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brigg (vehicle of Jos3enriq) moved wrongly! 1.1013562703778916
+[22Jan2025 00:42:05.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brigg (vehicle of Jos3enriq) moved wrongly! 1.0111597105062629
+[22Jan2025 00:42:05.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brigg (vehicle of Jos3enriq) moved wrongly! 0.8596060270676844
+[22Jan2025 00:42:06.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Brigg (vehicle of Jos3enriq) moved wrongly! 0.7121230382658723
+[22Jan2025 00:42:15.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[22Jan2025 00:42:15.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[22Jan2025 00:42:15.248] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Jan2025 00:43:57.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:54719] logged in with entity id 74473 at (-1042.0891527792007, 70.0, 2690.0242305407915)
+[22Jan2025 00:43:57.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[22Jan2025 00:43:57.168] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[22Jan2025 00:45:41.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[22Jan2025 00:45:41.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[22Jan2025 00:45:48.101] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:52329] logged in with entity id 74997 at (-1025.997184311383, 63.0, 2702.504496532446)
+[22Jan2025 00:45:48.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[22Jan2025 00:45:48.192] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[22Jan2025 00:51:10.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-646, y=67, z=2383} BlockPos{x=-646, y=65, z=2382}
+[22Jan2025 00:57:36.831] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[22Jan2025 00:57:36.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[22Jan2025 00:57:46.044] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:48429] logged in with entity id 79164 at (-526.9793346548374, 65.875, 2331.1442789540647)
+[22Jan2025 00:57:46.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[22Jan2025 00:57:46.125] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[22Jan2025 01:12:34.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> ayuda xdd
+[22Jan2025 01:12:36.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> me perdi
+[22Jan2025 01:12:47.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> xd
+[22Jan2025 01:17:34.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Grizzly Bear
+[22Jan2025 01:18:00.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Grizzly Bear
+[22Jan2025 01:18:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [Pic-A-Nic Basket?]
+[22Jan2025 01:18:18.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Pic-A-Nic Basket?]
+[22Jan2025 01:36:31.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Timed out
+[22Jan2025 01:36:31.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[22Jan2025 01:36:35.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Timed out
+[22Jan2025 01:36:35.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[22Jan2025 01:37:26.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:38967] logged in with entity id 86496 at (-561.1691775946131, 27.0, 2339.3352258923833)
+[22Jan2025 01:37:26.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[22Jan2025 01:37:26.884] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[22Jan2025 01:37:28.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:34859] logged in with entity id 86652 at (-577.9811790564755, 27.0, 2338.7881564359573)
+[22Jan2025 01:37:28.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[22Jan2025 01:37:28.784] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[22Jan2025 01:48:46.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Skeleton
+[22Jan2025 01:51:41.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq drowned
