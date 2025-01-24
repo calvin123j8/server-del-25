@@ -1240,5 +1240,17 @@
     },
     "done": true
   },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-01-24 21:51:12 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_tower": {
+    "criteria": {
+      "in_structure": "2025-01-24 22:11:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

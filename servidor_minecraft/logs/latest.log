@@ -10542,3 +10542,69 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Jan2025 21:50:04.937] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
 [24Jan2025 21:50:04.938] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
 [24Jan2025 21:51:12.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has reached the goal [Hunted]
+[24Jan2025 21:53:45.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved wrongly!
+[24Jan2025 21:53:45.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved wrongly!
+[24Jan2025 21:53:48.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Wilted
+[24Jan2025 21:53:48.391] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Jan2025 21:53:48.392] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[24Jan2025 21:53:48.392] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Jan2025 21:53:48.392] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Jan2025 21:53:48.393] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[24Jan2025 21:57:07.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Wilted
+[24Jan2025 22:08:05.636] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cynthal'/23251, l='ServerLevel[world]', x=-172.49, y=68.00, z=2643.11] died, message: 'Cynthal was shot by Pillager'
+[24Jan2025 22:08:05.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cynthal'/23251, l='ServerLevel[world]', x=-172.49, y=68.00, z=2643.11] died: Cynthal was shot by Pillager
+[24Jan2025 22:08:19.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-347, y=-29, z=2485} BlockPos{x=-346, y=-30, z=2487}
+[24Jan2025 22:08:53.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-345, y=-29, z=2542} BlockPos{x=-345, y=-28, z=2541}
+[24Jan2025 22:11:30.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Battle Towers?]
+[24Jan2025 22:15:41.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:16:01.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned
+[24Jan2025 22:16:15.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:16:16.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[24Jan2025 22:16:16.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[24Jan2025 22:18:37.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:37401] logged in with entity id 28559 at (-127.21528176851778, 61.070007489362865, 2828.1274634852643)
+[24Jan2025 22:18:37.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[24Jan2025 22:18:37.166] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[24Jan2025 22:19:22.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:19:24.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[24Jan2025 22:19:24.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[24Jan2025 22:21:10.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:50449] logged in with entity id 29551 at (-127.67644151929879, 62.689291250762835, 2828.923183923469)
+[24Jan2025 22:21:10.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[24Jan2025 22:21:10.671] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[24Jan2025 22:21:51.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:21:59.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:22:29.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:23:19.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:23:50.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:24:00.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:24:18.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned whilst trying to escape Drowned
+[24Jan2025 22:24:47.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:24:56.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:24:56.832] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Jan2025 22:24:56.832] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[24Jan2025 22:24:56.832] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Jan2025 22:24:56.832] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Jan2025 22:24:56.832] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
+[24Jan2025 22:25:22.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was impaled by Drowned
+[24Jan2025 22:26:31.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 froze to death
+[24Jan2025 22:27:04.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned
+[24Jan2025 22:27:33.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned
+[24Jan2025 22:28:47.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 discovered the floor was lava
+[24Jan2025 22:30:05.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2512ms or 50 ticks behind
+[24Jan2025 22:30:05.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved too quickly! 8.756844453997644,5.166109260938214,-1.9499120870600564
+[24Jan2025 22:32:06.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
+[24Jan2025 22:34:43.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned
+[24Jan2025 22:34:49.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[24Jan2025 22:34:49.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[24Jan2025 22:34:50.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+[24Jan2025 22:34:50.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> z<
+[24Jan2025 22:34:50.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> z
+[24Jan2025 22:34:51.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> z
+[24Jan2025 22:35:02.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:35009] logged in with entity id 39140 at (-171.80003774358633, 69.5625, 2632.98949783127)
+[24Jan2025 22:35:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[24Jan2025 22:35:02.820] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[24Jan2025 22:36:59.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned
+[24Jan2025 22:38:09.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned
+[24Jan2025 22:38:36.338] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[24Jan2025 22:39:45.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned
+[24Jan2025 22:40:58.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned
+[24Jan2025 22:52:27.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by The Moonflower
