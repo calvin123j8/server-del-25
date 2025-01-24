@@ -10487,3 +10487,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Jan2025 20:53:38.411] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 130456 bytes (in 14 string chunks with the size of 10000)
 [24Jan2025 20:53:38.412] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
 [24Jan2025 20:53:38.412] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[24Jan2025 21:02:53.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:44327] logged in with entity id 56 at (-527.2906088007323, 65.0, 2332.353013043322)
+[24Jan2025 21:02:53.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[24Jan2025 21:02:53.571] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[24Jan2025 21:02:55.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
+[24Jan2025 21:03:43.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[24Jan2025 21:04:29.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:51703] logged in with entity id 624 at (-527.6151165309814, 64.0, 2333.1402852706406)
+[24Jan2025 21:04:29.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[24Jan2025 21:04:29.977] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[24Jan2025 21:06:39.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-502, y=66, z=2274} BlockPos{x=-500, y=65, z=2273}
+[24Jan2025 21:14:57.990] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[24Jan2025 21:14:57.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[24Jan2025 21:15:25.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:58335] logged in with entity id 4169 at (-381.00379130142295, 72.0, 1995.4626299898287)
+[24Jan2025 21:15:25.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[24Jan2025 21:15:25.670] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[24Jan2025 21:16:47.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Forgotten Wars and Kingdoms]
+[24Jan2025 21:17:33.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was frozen to death by Zombie
+[24Jan2025 21:20:09.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
+[24Jan2025 21:27:25.635] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Harold'/4342, l='ServerLevel[world]', x=-140.26, y=-19.00, z=1794.50] died, message: 'Harold was slain by The Wheezer'
+[24Jan2025 21:27:25.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Harold'/4342, l='ServerLevel[world]', x=-140.26, y=-19.00, z=1794.50] died: Harold was slain by The Wheezer
+[24Jan2025 21:27:35.335] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sidney'/8100, l='ServerLevel[world]', x=-123.51, y=-19.00, z=1785.20] died, message: 'Sidney was slain by The Wheezer'
+[24Jan2025 21:27:35.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sidney'/8100, l='ServerLevel[world]', x=-123.51, y=-19.00, z=1785.20] died: Sidney was slain by The Wheezer
+[24Jan2025 21:27:48.630] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Wally'/8099, l='ServerLevel[world]', x=-125.51, y=-20.00, z=1781.83] died, message: 'Wally was slain by The Wheezer'
+[24Jan2025 21:27:48.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Wally'/8099, l='ServerLevel[world]', x=-125.51, y=-20.00, z=1781.83] died: Wally was slain by The Wheezer
+[24Jan2025 21:29:35.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[24Jan2025 21:29:35.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[24Jan2025 21:31:15.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:46001] logged in with entity id 10703 at (181.92323646818275, 96.00133597911214, 1672.333674235082)
+[24Jan2025 21:31:15.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[24Jan2025 21:31:15.415] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
