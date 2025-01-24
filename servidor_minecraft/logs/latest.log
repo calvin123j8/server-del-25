@@ -10515,3 +10515,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Jan2025 21:31:15.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:46001] logged in with entity id 10703 at (181.92323646818275, 96.00133597911214, 1672.333674235082)
 [24Jan2025 21:31:15.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
 [24Jan2025 21:31:15.415] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[24Jan2025 21:33:21.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[24Jan2025 21:33:21.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[24Jan2025 21:36:28.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:55317] logged in with entity id 12127 at (123.31763385660994, 62.95851941811327, 1714.9403709980209)
+[24Jan2025 21:36:28.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[24Jan2025 21:36:28.571] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[24Jan2025 21:39:58.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Randolph'/12367, l='ServerLevel[world]', x=-123.30, y=-19.00, z=1785.39] died, message: 'Randolph was slain by Zombie'
+[24Jan2025 21:39:58.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Randolph'/12367, l='ServerLevel[world]', x=-123.30, y=-19.00, z=1785.39] died: Randolph was slain by Zombie
+[24Jan2025 21:40:16.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elvia'/12256, l='ServerLevel[world]', x=-125.49, y=-20.00, z=1767.44] died, message: 'Elvia was slain by Randolph'
+[24Jan2025 21:40:16.287] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elvia'/12256, l='ServerLevel[world]', x=-125.49, y=-20.00, z=1767.44] died: Elvia was slain by Randolph
+[24Jan2025 21:40:34.791] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jimmie'/12254, l='ServerLevel[world]', x=-133.05, y=-20.00, z=1745.64] died, message: 'Jimmie was slain by Elvia'
+[24Jan2025 21:40:34.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jimmie'/12254, l='ServerLevel[world]', x=-133.05, y=-20.00, z=1745.64] died: Jimmie was slain by Elvia
+[24Jan2025 21:40:36.183] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Randolph'/13225, l='ServerLevel[world]', x=-132.70, y=-20.00, z=1736.80] died: Randolph was slain by Clay Golem
+[24Jan2025 21:40:46.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Jimmie'/13342, l='ServerLevel[world]', x=-128.27, y=-20.00, z=1744.43] died: Jimmie was slain by Clay Golem
+[24Jan2025 21:41:04.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Blake'/12265, l='ServerLevel[world]', x=-123.42, y=-18.50, z=1786.20] died, message: 'Blake was slain by Elvia'
+[24Jan2025 21:41:04.382] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Blake'/12265, l='ServerLevel[world]', x=-123.42, y=-18.50, z=1786.20] died: Blake was slain by Elvia
+[24Jan2025 21:41:22.387] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lucrecia'/12266, l='ServerLevel[world]', x=-113.40, y=-18.58, z=1746.70] died, message: 'Lucrecia died'
+[24Jan2025 21:41:22.387] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lucrecia'/12266, l='ServerLevel[world]', x=-113.40, y=-18.58, z=1746.70] died: Lucrecia died
+[24Jan2025 21:41:30.933] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fannie'/12264, l='ServerLevel[world]', x=-117.78, y=-20.00, z=1778.44] died, message: 'Fannie died'
+[24Jan2025 21:41:30.934] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Fannie'/12264, l='ServerLevel[world]', x=-117.78, y=-20.00, z=1778.44] died: Fannie died
+[24Jan2025 21:41:35.781] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lourie'/12263, l='ServerLevel[world]', x=-122.71, y=-20.00, z=1779.05] died, message: 'Lourie was slain by The Pregnant'
+[24Jan2025 21:41:35.781] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lourie'/12263, l='ServerLevel[world]', x=-122.71, y=-20.00, z=1779.05] died: Lourie was slain by The Pregnant
+[24Jan2025 21:43:17.975] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sal'/12137, l='ServerLevel[world]', x=-138.70, y=-19.77, z=1711.96] died, message: 'Sal was slain by Elvia'
+[24Jan2025 21:43:17.976] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sal'/12137, l='ServerLevel[world]', x=-138.70, y=-19.77, z=1711.96] died: Sal was slain by Elvia
+[24Jan2025 21:50:04.937] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[24Jan2025 21:50:04.937] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[24Jan2025 21:50:04.938] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[24Jan2025 21:51:12.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has reached the goal [Hunted]
