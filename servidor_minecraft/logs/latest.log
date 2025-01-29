@@ -17135,3 +17135,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29Jan2025 22:49:53.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Zombie
 [29Jan2025 22:53:42.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
 [29Jan2025 22:59:11.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq hit the ground too hard
+[29Jan2025 23:00:05.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 froze to death
+[29Jan2025 23:00:42.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was squashed by a falling anvil
+[29Jan2025 23:01:33.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[29Jan2025 23:01:33.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[29Jan2025 23:01:40.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:33333] logged in with entity id 5437 at (-412.394532531721, 69.0, 1825.9208528204324)
+[29Jan2025 23:01:40.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[29Jan2025 23:01:40.457] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[29Jan2025 23:06:38.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
