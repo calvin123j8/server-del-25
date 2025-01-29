@@ -17149,3 +17149,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [29Jan2025 23:17:22.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:49771] logged in with entity id 8037 at (-399.0022566482206, 64.5, 1831.0714959207514)
 [29Jan2025 23:17:22.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
 [29Jan2025 23:17:22.466] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[29Jan2025 23:20:35.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Zombie
+[29Jan2025 23:20:35.936] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Jan2025 23:20:35.937] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[29Jan2025 23:20:35.937] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[29Jan2025 23:20:35.937] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Jan2025 23:20:35.937] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[29Jan2025 23:20:36.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was shot by Skeleton
+[29Jan2025 23:20:46.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
+[29Jan2025 23:20:49.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Zombie
+[29Jan2025 23:21:00.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was blown up by Skeleton
+[29Jan2025 23:21:14.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was shot by Skeleton
+[29Jan2025 23:29:27.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
