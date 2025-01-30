@@ -12168,3 +12168,59 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30Jan2025 01:09:59.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> -338 1923
 [30Jan2025 01:11:32.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
 [30Jan2025 01:11:49.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[30Jan2025 01:12:08.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[30Jan2025 01:12:14.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-311, y=74, z=1985} BlockPos{x=-309, y=72, z=1985}
+[30Jan2025 01:12:22.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-304, y=71, z=1980} BlockPos{x=-304, y=69, z=1980}
+[30Jan2025 01:12:27.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[30Jan2025 01:12:47.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4251ms or 85 ticks behind
+[30Jan2025 01:13:05.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3555ms or 71 ticks behind
+[30Jan2025 01:13:25.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4661ms or 93 ticks behind
+[30Jan2025 01:18:34.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jos3enriq) moved wrongly! 0.601318359375
+[30Jan2025 01:18:34.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jos3enriq) moved wrongly! 0.601318359375
+[30Jan2025 01:18:34.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jos3enriq) moved wrongly! 0.601318359375
+[30Jan2025 01:18:34.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Jos3enriq) moved wrongly! 0.601318359375
+[30Jan2025 01:18:34.862] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[30Jan2025 01:18:34.862] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[30Jan2025 01:18:34.862] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[30Jan2025 01:19:12.621] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[30Jan2025 01:19:12.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[30Jan2025 01:19:26.598] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:38507] logged in with entity id 29480 at (-55.459108519045195, 59.0, 673.5560145246139)
+[30Jan2025 01:19:26.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[30Jan2025 01:19:26.619] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[30Jan2025 01:27:28.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made kevin123j2 a server operator
+[30Jan2025 01:27:34.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set own game mode to Creative Mode]
+[30Jan2025 01:29:01.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set own game mode to Survival Mode]
+[30Jan2025 01:39:35.147] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Marty'/37713, l='ServerLevel[world]', x=133.52, y=-3.00, z=1688.63] died, message: 'Marty was slain by Zombie Clown'
+[30Jan2025 01:39:35.147] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Marty'/37713, l='ServerLevel[world]', x=133.52, y=-3.00, z=1688.63] died: Marty was slain by Zombie Clown
+[30Jan2025 01:42:13.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sam'/37367, l='ServerLevel[world]', x=88.29, y=64.00, z=1717.41] died, message: 'Sam was slain by Boomer Zombie'
+[30Jan2025 01:42:13.210] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sam'/37367, l='ServerLevel[world]', x=88.29, y=64.00, z=1717.41] died: Sam was slain by Boomer Zombie
+[30Jan2025 01:42:23.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has completed the challenge [The Power of the Sun]
+[30Jan2025 01:42:23.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has completed the challenge [The Power of the Sun]
+[30Jan2025 01:43:56.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq drowned
+[30Jan2025 01:49:54.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=160, y=72, z=1722} BlockPos{x=161, y=70, z=1722}
+[30Jan2025 01:51:29.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 blew up
+[30Jan2025 01:51:29.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq blew up
+[30Jan2025 01:53:28.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=185, y=80, z=1629} BlockPos{x=185, y=79, z=1628}
+[30Jan2025 01:55:20.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[30Jan2025 01:55:20.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[30Jan2025 01:55:30.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.197.221.252:37311] logged in with entity id 47398 at (173.79769918861902, 82.0, 1625.3428370903837)
+[30Jan2025 01:55:30.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[30Jan2025 01:55:30.812] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[30Jan2025 01:57:19.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=213, y=88, z=1719} BlockPos{x=215, y=87, z=1720}
+[30Jan2025 01:57:19.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=214, y=88, z=1722} BlockPos{x=215, y=86, z=1722}
+[30Jan2025 01:59:29.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was impaled by Marauder
+[30Jan2025 01:59:45.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was shot by Pillager
+[30Jan2025 01:59:48.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was impaled by Marauder
+[30Jan2025 02:00:02.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was shot by Pillager
+[30Jan2025 02:03:15.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq fell from a high place
+[30Jan2025 02:05:19.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Corpse Fish
+[30Jan2025 02:06:32.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was poked to death by a sweet berry bush whilst trying to escape Corpse Fish
+[30Jan2025 02:07:23.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=191, y=98, z=1643} BlockPos{x=191, y=98, z=1644}
+[30Jan2025 02:07:36.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=87, z=1620} BlockPos{x=164, y=86, z=1621}
+[30Jan2025 02:08:57.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was doomed to fall by Royal Skeleton
+[30Jan2025 02:09:40.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 fell from a high place
+[30Jan2025 02:12:34.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq tried to swim in lava
+[30Jan2025 02:12:52.408] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[30Jan2025 02:12:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[30Jan2025 02:12:53.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[30Jan2025 02:12:53.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
