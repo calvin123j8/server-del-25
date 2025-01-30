@@ -1259,5 +1259,11 @@
     },
     "done": true
   },
+  "undead_revamp2:daddy": {
+    "criteria": {
+      "daddy_0": "2025-01-30 01:08:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
